@@ -1,5 +1,5 @@
 # Telegram Bot Frontend Portal
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/elezersolomon/telegram-bot-frontend)
+
 
 This is the frontend for the VisionFund (VFMFI) Telegram Bot management portal. It provides a comprehensive web interface for administrators and users to manage bot interactions, users, customers, content, and view reports. The application is built with React, TypeScript, and Material-UI.
 
