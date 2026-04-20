@@ -114,3 +114,7 @@ The project follows a standard React application structure:
     ├── App.tsx          # Main application component
     ├── index.tsx        # Application entry point
     └── routes.tsx       # Routing configuration using React Router
+
+    ## Authors
+- [Elezer Solomon]
+- [Fantahun Bishaw]
